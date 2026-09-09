@@ -1,21 +1,21 @@
 # Blinkit Sales Analysis (Interavtive Dashboard Created Using MS Exel)
 This project presents an interactive Blinkit Sales Analysis Dashboard created entirely using Microsoft Excel. The dashboard provides a comprehensive view of sales performance across different outlet types, outlet sizes, outlet locations, item types, and fat content categories.  
 ## Objectives
-Analyze overall sales performance.
+-Analyze overall sales performance.
 
-Identify the best-performing product categories.
+-Identify the best-performing product categories.
 
-Compare sales across different outlet sizes.
+-Compare sales across different outlet sizes.
 
-Analyze sales by outlet location and tier.
+-Analyze sales by outlet location and tier.
 
-Understand the contribution of Low Fat and Regular products.
+-Understand the contribution of Low Fat and Regular products.
 
-Compare different outlet types.
+-Compare different outlet types.
 
-Analyze average sales and item quantities.
+-Analyze average sales and item quantities.
 
-Build an interactive and user-friendly business dashboard.
+-Build an interactive and user-friendly business dashboard.
 
 
 ## Dashboard KPIs
