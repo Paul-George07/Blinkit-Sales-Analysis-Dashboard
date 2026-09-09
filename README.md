@@ -15,8 +15,11 @@ Build an interactive and user-friendly business dashboard.
 The dashboard provides the following key metrics:
 
 -Total Sales: $1.20M
+
 -Average Sales: $141
+
 -Number of Items: 8,523
+
 -Average Rating: 4.0
 
 <img width="1632" height="757" alt="Screenshot 2026-09-08 145628" src="https://github.com/user-attachments/assets/93304c96-31a6-4668-a2b0-3a3a62173e1a" />
