@@ -63,6 +63,7 @@ The dashboard provides the following key metrics:
 
 <img width="1632" height="757" alt="Screenshot 2026-09-08 145628" src="https://github.com/user-attachments/assets/93304c96-31a6-4668-a2b0-3a3a62173e1a" />
 
+
 ## Conclusion
 
 The Blinkit Sales Analysis Dashboard demonstrates how Microsoft Excel can be used to perform data analysis and business intelligence without requiring advanced programming tools. By combining PivotTables, charts, slicers, and KPIs, the project converts raw sales data into an interactive dashboard that makes important business trends and performance indicators easy to understand.
